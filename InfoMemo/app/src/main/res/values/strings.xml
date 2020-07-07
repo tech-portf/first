@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Infomation memo</string>
+    <string-array name="lv_infolist">
+        <item>携帯電話番号</item>
+        <item>メールアドレス</item>
+        <item>郵便番号</item>
+        <item>住所</item>
+        <item>本籍</item>
+        <item>車両ナンバー</item>
+    </string-array>
+    <string name="tv_lb_name">選択された情報</string>
+    <string name="tv_name">未選択</string>
+    <string name="tv_lb_note">内容:</string>
+    <string name="btn_save">保存</string>
+</resources>
